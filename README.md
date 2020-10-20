@@ -8,7 +8,7 @@
 | ----- | ----- |
 | ![Alt](https://github.com/girls-incode/react-users-crud/blob/master/src/assets/react-react-login-signin.jpg "") | ![Alt](https://github.com/girls-incode/react-users-crud/blob/master/src/assets/react-signup-register.jpg "") |
 
-#### Features:
+### Features:
 
 * Log in
 * Sign up
@@ -19,7 +19,7 @@
 * Edit a user
 * Delete a user
 
-#### To run:
+### To run:
 
 #### `yarn start`
 
@@ -27,7 +27,7 @@
 
 #### `yarn build`
 
-#### Tech stack:
+### Tech stack:
 * react
 * react-redux
 * redux-thunk
