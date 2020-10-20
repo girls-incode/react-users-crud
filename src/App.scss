@@ -7,6 +7,11 @@ body {
     font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
 }
 
+.MuiAppBar-positionStatic {
+    position: fixed !important;
+    top:0;
+}
+
 .flex {
     display: flex;
 }
@@ -24,7 +29,7 @@ header {
 }
 
 main {
-    margin-top: 65px;
+    margin-top: 90px;
 }
 
 .alert-danger {

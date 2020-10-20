@@ -276,7 +276,7 @@ function App() {
       </main>
       <footer className={classes.footer}>
         <Typography variant="subtitle1" align="center" color="textSecondary" component="p">
-          Copyright &copy; <a href="http://girlsincode.com/" target="_blank">girlsincode</a>
+          Copyright &copy; <a href="http://girlsincode.com/" target="_blank" rel="noopener noreferrer">girlsincode</a>
         </Typography>
       </footer>
       </div>
