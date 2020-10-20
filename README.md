@@ -34,3 +34,6 @@
 * material-ui
 * sass
 * axios
+
+*Login sample:
+user: eve.holt@reqres.in, pass: cityslicka*
