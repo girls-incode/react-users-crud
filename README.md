@@ -2,7 +2,7 @@
 
 ## React Users CRUD app using https://reqres.in API 
 
-![Alt](https://github.com/girls-incode/react-users-crud/src/assets/react-users-table-crud-material-ui.jpg "")
+![Alt](https://github.com/girls-incode/react-users-crud/blob/master/src/assets/react-users-table-crud-material-ui.jpg "")
 
 ### Features:
 
