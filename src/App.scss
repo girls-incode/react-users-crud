@@ -1,0 +1,32 @@
+body, html {
+    font-size: 14px;
+}
+
+body {
+    margin: 0;
+    font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', sans-serif;
+}
+
+.flex {
+    display: flex;
+}
+
+header {
+    a {
+        text-decoration: none;
+        color: white;
+        font-size: 1.25rem;
+    }
+}
+
+.home {
+    flex-grow: 1;
+}
+
+main {
+    margin-top: 65px;
+}
+
+.alert-danger {
+    color: red;
+}
