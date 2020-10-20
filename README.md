@@ -1,6 +1,8 @@
 
 
-## React Users CRUD app using https://reqres.in/ API 
+## React Users CRUD app using https://reqres.in API 
+
+![Alt](https://github.com/girls-incode/react-users-crud/assets/react-users-table-crud-material-ui.jpg "")
 
 ### Features:
 
@@ -13,13 +15,13 @@
 * Edit a user
 * Delete a user
 
-### To run:
+#### To run:
 
-### `yarn start`
+#### `yarn start`
 
-### `yarn test`
+#### `yarn test`
 
-### `yarn build`
+#### `yarn build`
 
 ### Tech stack:
 * react
